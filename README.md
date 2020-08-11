@@ -1,2 +1,2 @@
 # Linting-App
-Application for testing the eslit &amp; prettier 
+Application for applying eslit and prettier for react App.
